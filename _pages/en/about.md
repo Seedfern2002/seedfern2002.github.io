@@ -90,7 +90,7 @@ Outside of research, I play the violin and enjoy performing anime and video game
 <div class="edu-exp-item">
   <img class="inst-logo" src="/images/logos/roche.png" alt="Roche">
   <div class="inst-info">
-    <div class="inst-name">Roche pRED</div>
+    <div class="inst-name">Roche</div>
     <div class="inst-role">Research Intern</div>
   </div>
   <div class="inst-date">May. 2026 – Present</div>

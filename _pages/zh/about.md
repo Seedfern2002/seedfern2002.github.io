@@ -90,7 +90,7 @@ author_profile: true
 <div class="edu-exp-item">
   <img class="inst-logo" src="/images/logos/roche.png" alt="Roche">
   <div class="inst-info">
-    <div class="inst-name">罗氏制药 pRED</div>
+    <div class="inst-name">罗氏制药 (Roche)</div>
     <div class="inst-role">研究实习生</div>
   </div>
   <div class="inst-date">2026年5月 – 至今</div>
