@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Stories"
+title: "Short Fiction"
 permalink: /en/stories/
 author_profile: true
 lang: en
