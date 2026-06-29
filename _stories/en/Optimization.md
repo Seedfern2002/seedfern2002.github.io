@@ -3,10 +3,11 @@ title: "Optimization"
 date: 2026-06-29
 permalink: /en/stories/optimization/
 lang: en
-excerpt: "Will be here soon."
+excerpt: "In an era of full optimization, where shall the future of humanity rest?"
 ---
 
-Chapter I: Local Optimum
+## Chapter I: Local Optimum
+
 I am a lab administrator at EternalOpt BioTech. In this day and age, there are barely any real experiments left for humans to conduct.
 
 Over two centuries ago, the advent of the Genomic Foundation Model fundamentally altered the trajectory of life sciences. Shortly thereafter, Gu Zhi built upon it to propose the "Multi-Objective Optimization Dynamics" algorithm—shortened to MOOD—for optimizing genomic pairing.
@@ -19,7 +20,8 @@ My job at EternalOpt was profoundly leisurely. My daily routine consisted of pat
 
 Until that afternoon, when the terminal flashed a deep, ominous crimson—a color it had never shown before.
 
-Chapter II: Gradient Descent
+## Chapter II: Gradient Descent
+
 The screen presented a grotesque contrast.
 
 Severe traffic accidents, triggered by drivers suddenly losing consciousness, were erupting across multiple regions simultaneously. Within the very same office, one person would be desperately clawing at their own throat, their face turning from a sickly pale to bruised purple before dying of systemic vascular collapse within minutes; yet the colleague in the adjacent cubicle would look on, entirely unharmed, paralyzed by sheer shock.
@@ -42,7 +44,8 @@ I attempted to calculate the precise demographic ratio required for the virus to
 
 "Your deduction is correct," a voice echoed from the shadows. "All of this was, indeed, designed."
 
-Chapter III: Convergence
+## Chapter III: Convergence
+
 I spun around.
 
 Gu Zhi stood by the bookshelf, looking almost identical to his historical holograms, save for a few more silver strands in his hair. He was Gu Zhi. As the progenitor of EternalOpt BioTech, it was hardly incomprehensible that he had possessed the means to keep himself alive until now.
@@ -69,7 +72,8 @@ Gu Zhi ran a finger along the holographic molecular chain and continued:
 
 "The repetitive sequences accumulated by MOOD are the receipts of greed stacked by humanity for two centuries. And I am merely executing the sentence."
 
-Chapter IV: Halting
+## Chapter IV: Halting
+
 The disaster gradually subsided after raging for several weeks. The global population had plummeted by nearly two-thirds, with those of the highest generational count and deepest optimization almost entirely wiped out. The cataclysm left the survivors with profound trauma and a lingering shadow; empty, dead-silent streets juxtaposed against grand, pristine architecture, wrapping the remnants of civilization in a surreal sense of desolation.
 
 Yet, the surviving humans displayed a staggering resilience in the wake of this monumental upheaval. Leveraging the highly mature automated production lines, intelligent scheduling networks, and infrastructural systems, they began repairing the fractured social apparatus, rediscovering a sense of order through the daily grind of reconstruction.
