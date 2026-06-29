@@ -8,29 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main_en:
-  - title: "Home"
-    url: /en/
-  - title: "Research"
-    url: /en/research/
   - title: "Publications"
     url: /en/publications/
   - title: "Stories"
     url: /en/stories/
-  - title: "CV"
-    url: /en/cv/
   - title: "中文"
     url: /zh/
 
 main_zh:
-  - title: "首页"
-    url: /zh/
-  - title: "研究"
-    url: /zh/research/
   - title: "论文"
     url: /zh/publications/
   - title: "短篇小说"
     url: /zh/stories/
-  - title: "简历"
-    url: /zh/cv/
   - title: "English"
     url: /en/
