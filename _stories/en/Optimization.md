@@ -3,73 +3,75 @@ title: "Optimization"
 date: 2026-06-29
 permalink: /en/stories/optimization/
 lang: en
-excerpt: "In an era of full optimization, where shall the future of humanity rest?"
+excerpt: "In an age of total optimization, where will humanity's future lead?"
 ---
 
-*Translated using Gemini*
+*Translated using GPT*
 
 ## Local Optimum
-I am a lab administrator at EternalOpt BioTech. In this day and age, there aren't many real experiments left for humans to conduct.
 
-Over two hundred years ago, the birth of genome foundation models altered the trajectory of life sciences forever. Shortly thereafter, Gu Zhi built upon this to propose a "Multi-Objective Optimization Dynamics" algorithm—or MOOD for short—designed to optimize genome pairing.
+I am a lab administrator at EternalOpt BioTech. In this age, there are not many real experiments left for humans to run.
 
-This algorithm could take any custom target function entered—be it height, intelligence, athletic capability, or abstract cognitive and reasoning skills—and search a massive donor registry for the theoretically optimal gamete combination. Gu Zhi proved that the outcome wasn't determined by "excellent individuals," but by the "most compatible combination." Moreover, the MOOD algorithm enhanced individuals without causing the human gene pool to converge or degenerate. On the back of this breakthrough, he founded EternalOpt BioTech.
+More than two hundred years ago, the emergence of genome foundation models changed the course of life science. Soon afterward, Gu Zhi built on them to develop Multi-Objective Optimization Dynamics, or MOOD, an algorithm for optimizing genome pairing.
 
-As the first generation of MOOD babies grew up, every quantifiable metric—from average height and health status to intelligence levels—was flawlessly superior to any historical baseline. The data silenced almost all dissenting voices. Eventually, the combination of robotic partners and MOOD-derived offspring became mainstream. For individuals, this mitigated all vectors of risk and achieved absolute control over the quality of their descendants; for humanity as a species, it solved the mismatch between the pace of gene pool evolution and technological advancement. At every scale, humanity was winning.
+Given any target function—height, intelligence, athletic ability, or even abstract cognitive and reasoning skills—the algorithm could search a vast donor registry for the theoretically optimal combination of gametes. Gu Zhi showed that what mattered was not finding two "exceptional individuals," but finding the "most compatible combination." MOOD could enhance individuals without driving the human gene pool toward convergence or decline. On the strength of this discovery, he founded EternalOpt BioTech.
 
-Working at EternalOpt was incredibly laid-back. My daily routine consisted of patrolling the incubation rooms, checking automated experimental platforms, and signing off on reports submitted by robots. A day's work rarely took more than two hours. The rest of the time, everyone just hung out in the lounge, chatting and playing video games.
+As the first generation of MOOD babies grew up, they surpassed every historical benchmark in quantifiable traits such as height, health, and intelligence. The data silenced nearly every objection. In time, robotic partners and MOOD-conceived children became the norm. For individuals, the arrangement minimized risk and gave them complete control over the quality of their offspring. For humanity as a whole, it resolved the growing mismatch between the pace of genetic evolution and technological progress. At every level, humanity was winning.
 
-Until that afternoon, when the terminal lit up with a dark, ominous red that I had never seen before.
+Work at EternalOpt was easy. My routine consisted of walking through the incubation rooms, checking the automated laboratory platforms, and signing reports submitted by robots. I rarely worked more than two hours a day. The rest of the time, we sat in the lounge, chatting and playing video games.
+
+Then, one afternoon, my terminal lit up in a shade of dark red I had never seen before.
 
 ## Gradient Descent
-Severe traffic accidents triggered by sudden human collapse erupted simultaneously across multiple regions. In the very same office, one person would be agonizingly clutching their throat, their face turning from a deathly pale to deep purple, suffocating within minutes due to systemic vascular collapse; yet their colleague sitting in the adjacent cubicle would look on in sheer horror, completely unscathed.
 
-People gradually discovered that the severity of the symptoms correlated directly with whether one's ancestors had used the MOOD algorithm. An enraged public quickly branded EternalOpt as the instigator of the catastrophe. Bricks and Molotov cocktails shattered the headquarters' bulletproof glass, and order-maintenance robots collapsed in droves under dense electromagnetic pulse attacks.
+Serious accidents broke out across multiple regions as people suddenly lost consciousness. In one office, a man clutched his throat in agony, his face fading from white to purple as systemic vascular collapse stopped his breathing within minutes. At the desk beside him, his colleague watched in horror, entirely unharmed.
 
-In the chaotic siege, I accidentally retreated through a pneumatic door hidden behind a wall panel in the core laboratory. The door sealed shut behind me with a heavy thud, locking the violence completely outside.
+People soon discovered that the severity of the symptoms was linked to whether their ancestors had used MOOD. An enraged public blamed EternalOpt for the disaster. Bricks and Molotov cocktails smashed through the bulletproof glass of its headquarters, while waves of electromagnetic attacks disabled the robots trying to maintain order.
 
-A virus cannot typically possess both high lethality and high transmissibility. But in this case, it appeared the virus was using a population of asymptomatic carriers as a springboard to rapidly spread and massacre the MOOD descendants.
+Amid the chaos, I stumbled through a pneumatic door concealed behind a wall panel in the central laboratory. It slammed shut behind me, sealing away the violence outside.
 
-I quickly retrieved the casualty data and pinpointed the core of the issue: reproductive generations. The earlier a lineage had adopted MOOD, and the higher their number of optimized generations, the higher their mortality rate. First-generation MOOD humans presented only a mild fever, whereas fourth- and fifth-generation "Neo-Humans" exhibited extreme lethality.
+A virus cannot normally sustain both high lethality and high transmissibility. Yet this virus appeared to be spreading rapidly through asymptomatic carriers while killing MOOD descendants.
 
-This was a meticulously tuned harvest.
+I pulled up the casualty data and found the key variable: the number of generations. The earlier a family had adopted MOOD, and the more generations it had used the algorithm, the higher its mortality rate. First-generation MOOD humans developed little more than a mild fever. Among the fourth and fifth generations of "new humans," however, the infection was overwhelmingly fatal.
 
-In a daze, I fumbled my way through the pitch-black corridor. At the end of the passage was an utterly ordinary office. A wooden desk, bookshelves, paper books—it looked like a room preserved from two centuries ago. The only modern anomaly was a vintage terminal on the desk, still glowing with a faint blue light.
+Still dazed, I felt my way down the dark corridor. At its end stood an utterly ordinary office: a wooden desk, bookshelves, and printed books, as though the room had survived untouched for two hundred years. Only a vintage terminal on the desk, glowing faintly blue, betrayed the present.
 
-I walked over and entered my credentials. The screen displayed a global demographic distribution by generation, overlaid with pulsating red pandemic hotspots. The data confirmed it: the virus was using humans with low or zero MOOD generations for silent transmission. They were natural hosts, yet they never fell ill.
+I approached it and entered my credentials. The screen displayed the global population by MOOD generation, overlaid with blinking red points marking outbreaks. The data confirmed my suspicion. The virus spread silently through people with few or no generations of MOOD ancestry. They were its natural hosts, yet they never became ill.
 
-I attempted to calculate the population ratio required for the virus to achieve its maximum global transmission rate. When the final curve stopped fluctuating, I realized that the perfect mathematical solution aligned flawlessly with the actual demographic structure of the current world, as if... it had been optimized.
+I calculated the population distribution that would allow the virus to reach its maximum transmission rate worldwide. When the curve finally stabilized, the mathematical optimum matched the actual structure of the world's population with uncanny precision—as though the population itself had been optimized.
 
-"Your deduction is correct," a voice echoed. "All of this was, indeed, designed."
+"Your reasoning is correct," said a voice behind me. "All of this was designed."
 
 ## Convergence
+
 I turned around.
 
-Gu Zhi stood by the bookshelf, looking almost identical to his historical holograms, save for a few more silver strands in his hair. As the progenitor of EternalOpt BioTech, it wasn't hard to fathom how he had kept himself alive to this day.
+Gu Zhi stood beside the bookshelf. He looked almost exactly as he did in the historical recordings, except for a few strands of white in his hair. As the founder of EternalOpt BioTech, he had apparently found a way to keep himself alive for more than two centuries. Somehow, that was not difficult to believe.
 
-Trembling, I asked, "Why?"
+"Why?" I asked, trembling.
 
-Gu Zhi watched the tea leaves floating and sinking in his cup. After a long silence, he spoke: "In my era, the technological explosion was supposed to liberate humanity from the curse of resource scarcity and lead us toward true freedom. But the reality was that exponential increases in efficiency only brought about deeper, meaningless hyper-competition. Advanced technology didn't eliminate anxiety; instead, it amplified everyone's obsessive desire to 'optimize' everything: a better education, a better job, more money, a better spouse... Why should a human civilization this advanced still engage in such a primal struggle for survival, just like any primitive organism?"
+Gu Zhi watched the tea leaves drift in his cup. After a moment, he said, "In my time, the explosion of technology was supposed to free humanity from the curse of scarcity and lead us toward true freedom. Instead, every leap in efficiency only intensified a pointless competition. Advanced technology did not eliminate anxiety. It magnified our desire to optimize everything: a better education, a better job, more money, a better partner... Why should a civilization this advanced still struggle for survival like any other organism?"
 
-"Because our civilization caught a ride on a rocket, but the human genome remained stuck in an ancient, primordial society," Gu Zhi’s voice carried no warmth. He explained, "In that ancient era of extreme scarcity, 'greed' was a powerful tool to ensure individual survival and genetic continuity. However, when humanity entered the modern age, greed became a pathology of civilization. And in an environment where most people choose a greedy strategy, greed becomes the strictly dominant strategy. Those who don't fight, don't grab, and remain content are ruthlessly weeded out. I couldn't eliminate human desire, but I could use MOOD to detonate that greed. I handed them this biologically irresistible optimization as a gift."
+"Our civilization had boarded a rocket, but the human genome was still trapped in a primitive age." There was no warmth in Gu Zhi's voice. "In a world of extreme scarcity, greed was a powerful tool for individual survival and genetic continuity. But once humanity entered the modern age, greed became a disease of civilization. When most people choose greed, it becomes the strictly dominant strategy. Those who refuse to fight and take, those who are content with enough, are simply eliminated. I could not erase human desire, but I could use MOOD to detonate it. So I gave them a form of optimization that, at the biological level, they could not resist."
 
-He tapped the desk, pulling up a complex molecular structure.
+He tapped the desk, and a complex molecular structure appeared above it.
 
-"For two hundred years, to ensure that MOOD zygotes exhibited early developmental speeds and stress resistance far beyond the norm, EternalOpt added a highly efficient mitogenic factor to the culture medium. This agent was flawless for embryonic development, but one of its costs was aggravated replication stress, which increased the probability of replication slippage."
+"For two hundred years, EternalOpt added a highly efficient mitogenic factor to its culture medium so that MOOD zygotes would develop faster and withstand stress better than ordinary embryos. The compound was nearly perfect for embryonic development, but it came at a cost: it increased replication stress and made replication slippage more likely."
 
-Gu Zhi’s finger swiped gently across the holographic molecular chain as he continued:
+Gu Zhi ran a finger across the holographic molecular chain.
 
-"This slippage didn't trigger any phenotypic changes; it merely caused some sequence repeats that looked like benign contributions to diversity. But as the reproductive generations of MOOD descendants stacked up, these sequence repeats accumulated continuously. Consequently, a certain adhesion receptor on the surface of these Neo-Humans' immune cells and vascular endothelial cells saw its hydrophobic residue tail gradually elongate. These surface receptors, which were originally scattered, began to cluster on the cell membrane, amplifying geometrically with each passing generation."
+"The slippage caused no visible change in phenotype. It merely produced repeated sequences that appeared to contribute harmlessly to genetic diversity. But as successive generations of MOOD descendants accumulated, so did those repeats. A hydrophobic tail on an adhesion receptor found on their immune cells and vascular endothelial cells grew longer with each generation. Receptors that had once been scattered across the cell membrane began to cluster, and those clusters grew geometrically from one generation to the next."
 
-"Two hundred years ago, I named that algorithm MOOD," Gu Zhi said, staring at the receptors clustering on the cells on the screen, his voice completely devoid of emotion. "And the virus released this time, I call it DOOM."
+"Two hundred years ago, I named the algorithm MOOD," Gu Zhi said, watching the receptors gather on the cells displayed before him. His voice remained perfectly calm. "The virus I released this time is called DOOM."
 
-"As a meticulously engineered apex creation, its first binding site only attaches to cells in non-core tissues, spreading through the population like a common flu. Its second binding site, however, locks onto the hydrophobic receptor clusters on the cell surface with extreme specificity. The larger the receptor cluster, the higher the binding success rate, and the faster the vascular and immune systems collapse."
+"It was designed with two binding sites. The first attaches only to cells in nonessential tissues, allowing the virus to pass through the population like an ordinary flu. The second binds with extreme specificity to the hydrophobic receptor clusters. The larger the cluster, the more readily the virus binds—and the faster the vascular and immune systems collapse."
 
-"The accumulated repeat sequences from MOOD are the evidence of guilt that the greedy have stacked up for two centuries. And I am simply executing the sentence accordingly."
+"The repeated sequences accumulated through MOOD are the evidence of two centuries of greed. I am merely carrying out the sentence."
 
 ## Halting
-The catastrophe gradually subsided after raging for several weeks. The global population had plummeted by nearly two-thirds; those belonging to the generations with the highest lineage counts and deepest optimizations were almost entirely gone. The havoc left massive trauma and a profound shadow over the survivors. Empty, dead-silent streets juxtaposed with grand, pristine architecture gave the remnant civilization a surreal sense of hollow vacancy.
 
-Yet, the surviving humans demonstrated astonishing resilience amidst the colossal upheaval. Leveraging giant automated production lines, intelligent dispatch networks, and infrastructure systems, they began repairing damaged societal functions, rediscovering order within the routine of daily reconstruction.
+After several weeks, the disaster gradually subsided. The global population had fallen by nearly two-thirds. Those with the longest MOOD lineages and the most heavily optimized genomes had almost entirely disappeared. The catastrophe left the survivors with immense grief and a lingering shadow. Empty, silent streets ran between grand buildings that remained perfectly intact, lending the remnants of civilization an unreal sense of absence.
 
-Supporting one another through the day-to-day, people experienced a long-forgotten tranquility for the very first time. No one knew where this deeply scarred world would eventually settle, or exactly where the future of human civilization would steer.
+Yet the survivors proved remarkably resilient. With the help of automated production lines, intelligent logistics networks, and existing infrastructure, they began restoring the damaged functions of society and finding order again in the routines of reconstruction.
+
+As people supported one another through daily life, they experienced a peace that had long been forgotten. No one knew where this wounded world would finally settle, or where the future of human civilization would lead.

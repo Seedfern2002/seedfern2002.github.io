@@ -5,11 +5,11 @@ lang: en
 author_profile: true
 ---
 
-I am an AI researcher interested in designing next-generation AI systems for scientific discovery, with a recent focus on foundation models and LLM agents. My work has evolved from explainable deep learning and generative models to spatial proteomics foundation models, vision-language models, and LLM-based agent systems.  
+I am an AI researcher working at the intersection of machine learning and scientific discovery. Recently, I have focused on foundation models and LLM agents, particularly for biomedical applications.
 
-I am currently a Research Intern at Roche Pharma Research & Early Development, where I work on LLM agents for drug safety assessment and privacy-preserving long-context question answering for confidential clinical reports. Previously, I worked at AIMM Lab, EPFL on foundation models for spatial proteomics and the corresponding downstream tasks.  
+Currently, I am a Research Intern at Roche Pharma Research & Early Development, where I develop LLM agents for target safety assessment and information retrieval from confidential clinical study reports. Before joining Roche, I worked in the AIMM Lab at EPFL on foundation models for spatial proteomics and their downstream applications.
 
-Outside of research, I play the violin and enjoy performing anime and video game soundtracks. While I hike and swim casually, I am much better at esports—especially TFT (Teamfight Tactics), where my goal is to qualify for the World Championship. So far, my closest moment was finishing just 2 placements (1 point) short of the EMEA Regional Final.
+Outside research, I play the violin, often performing music from anime and video games. I also hike and swim, although I am considerably better at esports, especially Teamfight Tactics. My goal is to qualify for the World Championship; on my closest attempt, I missed the EMEA Regional Final by just one point.
 
 <style>
 .edu-exp-grid {
