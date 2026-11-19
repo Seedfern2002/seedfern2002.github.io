@@ -3,132 +3,32 @@ permalink: /en/
 title: "Yexiang Cheng"
 lang: en
 author_profile: true
+hide_title: true
 ---
 
-I am an AI researcher working at the intersection of machine learning and scientific discovery. Recently, I have focused on foundation models and LLM agents, particularly for biomedical applications.
+I am a master’s student in Computer Science at EPFL. Previously, I earned a bachelor’s degree in Bioinformatics and a dual bachelor’s degree in Computer Science from Peking University. Before that, I built a solid foundation in biology through Biology Olympiad training in high school.
 
-Currently, I am a Research Intern at Roche Pharma Research & Early Development, where I develop LLM agents for target safety assessment and information retrieval from confidential clinical study reports. Before joining Roche, I worked in the AIMM Lab at EPFL on foundation models for spatial proteomics and their downstream applications.
+I was fortunate to work with Prof. Charlotte Bunne at EPFL’s AIMM Lab on foundation models for spatial proteomics, an experience that rekindled my enthusiasm for research. I am also grateful for my internship at Roche, which gave me insight into the pharmaceutical industry and the role of AI in drug discovery and development.
 
-Outside research, I play the violin, often performing music from anime and video games. I also hike and swim, although I am considerably better at esports, especially Teamfight Tactics. My goal is to qualify for the World Championship; on my closest attempt, I missed the EMEA Regional Final by just one point.
+These experiences have deepened my understanding of AI, biology, and their intersection. They have also highlighted why existing machine learning approaches may not transfer readily to biological data. Building on this perspective, my current work explores how biological prior knowledge can be incorporated into AI models, such as foundation models and generative models.
 
-<style>
-.edu-exp-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  margin: 1.5rem 0;
-}
-.edu-exp-grid h2 {
-  font-size: 1.05rem;
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 2px solid #333;
-}
-.edu-exp-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.65rem;
-  margin-bottom: 0.9rem;
-}
-.inst-logo {
-  width: 34px;
-  height: 34px;
-  border-radius: 50%;
-  object-fit: contain;
-  background: #fff;
-  border: 1px solid #e8e8e8;
-  flex-shrink: 0;
-  margin-top: 2px;
-  padding: 3px;
-}
-.inst-info { flex: 1; min-width: 0; }
-.inst-name { font-weight: bold; font-size: 0.9rem; line-height: 1.3; }
-.inst-role { font-size: 0.82rem; color: #666; margin-top: 1px; }
-.inst-date { font-size: 0.78rem; font-style: italic; color: #888; white-space: nowrap; flex-shrink: 0; padding-top: 3px; }
-@media (max-width: 640px) {
-  .edu-exp-grid { grid-template-columns: 1fr; }
-}
-</style>
+<nav class="profile-links" aria-label="Contact and profiles">
+  <a class="profile-link-primary" href="{{ '/files/CV_EN.pdf' | relative_url }}">CV <span aria-hidden="true">↗</span></a>
+  <a href="mailto:yexiang.cheng@epfl.ch">Email</a>
+  <a href="https://github.com/Seedfern2002">GitHub</a>
+  <a href="https://www.linkedin.com/in/yexiang-cheng-512076329/">LinkedIn</a>
+</nav>
 
-<div class="edu-exp-grid">
-<div>
-<h2>Education</h2>
+{% include background-en.html %}
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/epfl.svg" alt="EPFL">
-  <div class="inst-info">
-    <div class="inst-name">EPFL</div>
-    <div class="inst-role">M.S. in Computer Science</div>
-  </div>
-  <div class="inst-date">Sep. 2024 – Present</div>
-</div>
+<h2 id="awards">Selected Awards</h2>
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="Peking University">
-  <div class="inst-info">
-    <div class="inst-name">Peking University</div>
-    <div class="inst-role">B.S. in Bioinformatics</div>
-  </div>
-  <div class="inst-date">Sep. 2020 – Jun. 2024</div>
-</div>
+- **Excellent Graduate of Beijing**, 2024
+- **Excellent Graduate of Peking University**, 2024
+- **Gold Medal, China National Biology Olympiad (CNBO)**, 2019
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="Peking University">
-  <div class="inst-info">
-    <div class="inst-name">Peking University</div>
-    <div class="inst-role">B.S. in Computer Science</div>
-  </div>
-  <div class="inst-date">Sep. 2020 – Jun. 2024</div>
-</div>
+<h2 id="beyond-research">Beyond Research</h2>
 
-</div>
-<div>
-<h2>Experience</h2>
+Outside research, I play the violin, especially music from anime and video games. I also enjoy competitive Teamfight Tactics. My goal is to qualify for the World Championship; my closest attempt ended one point short of the EMEA Regional Final.
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/roche.png" alt="Roche">
-  <div class="inst-info">
-    <div class="inst-name">Roche</div>
-    <div class="inst-role">Research Intern</div>
-  </div>
-  <div class="inst-date">May. 2026 – Present</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/aimm.jpg" alt="AIMM Lab">
-  <div class="inst-info">
-    <div class="inst-name">AIMM Lab, EPFL</div>
-    <div class="inst-role">Research Assistant</div>
-  </div>
-  <div class="inst-date">Dec. 2024 – Apr. 2026</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="Peking University">
-  <div class="inst-info">
-    <div class="inst-name">Wangxuan Inst., PKU</div>
-    <div class="inst-role">Research Assistant</div>
-  </div>
-  <div class="inst-date">Nov. 2022 – May. 2023</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/helixon.png" alt="Helixon">
-  <div class="inst-info">
-    <div class="inst-name">Helixon</div>
-    <div class="inst-role">Research Intern</div>
-  </div>
-  <div class="inst-date">Jan. 2022 – Jun. 2022</div>
-</div>
-
-</div>
-</div>
-
-Contact
-======
-- Email: [yexiang.cheng@epfl.ch](mailto:yexiang.cheng@epfl.ch)
-- LinkedIn: [Yexiang Cheng](https://www.linkedin.com/in/yexiang-cheng-512076329/)
-- GitHub: [yexiangcheng](https://github.com/Seedfern2002)
-- CV: [Download PDF](/files/CV_EN.pdf)
+I also write stories and essays, collected in [Miscellany]({{ '/en/stories/' | relative_url }}).

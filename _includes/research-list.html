@@ -1,0 +1,20 @@
+{% assign lang = page.lang | default: "en" %}
+<div class="research-list">
+{% for work in site.data.research %}
+  {% if lang == "zh" %}
+    {% assign summary = work.summary_zh %}
+    {% assign link_label = work.link_zh %}
+  {% else %}
+    {% assign summary = work.summary_en %}
+    {% assign link_label = work.link_en %}
+  {% endif %}
+  <article class="research-item" id="{{ work.id }}">
+    {% if work.venue %}<p class="research-meta"><span>{{ work.venue }}</span></p>{% endif %}
+    <h3>{% if work.url %}<a href="{{ work.url }}">{{ work.title }}</a>{% else %}{{ work.title }}{% endif %}</h3>
+    {% if include.full and work.authors %}<p class="research-authors">{{ work.authors }}</p>{% endif %}
+    {% if summary %}<p>{{ summary }}</p>{% endif %}
+    {% if work.url %}<a class="research-link" href="{{ work.url }}">{{ link_label }} <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if work.project_url %} · <a class="research-link" href="{{ work.project_url }}">{% if lang == "zh" %}项目{% else %}Project{% endif %} <span aria-hidden="true">↗</span></a>{% endif %}
+  </article>
+{% endfor %}
+</div>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "短篇小说"
+title: "杂谈"
 permalink: /zh/stories/
 author_profile: true
 lang: zh
@@ -8,7 +8,7 @@ lang: zh
 
 {% include base_path %}
 
-这里会放一些短篇小说、片段和偶尔的叙事练习。
+故事、随笔，以及偶尔的思考。
 
 {% assign stories = site.stories | where: "lang", "zh" | sort: "date" | reverse %}
 
@@ -17,5 +17,5 @@ lang: zh
     {% include archive-single.html %}
   {% endfor %}
 {% else %}
-暂时还没有发布小说。
+暂时还没有发布文章。
 {% endif %}

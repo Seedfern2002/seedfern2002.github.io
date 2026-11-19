@@ -3,132 +3,32 @@ permalink: /zh/
 title: "程业翔"
 lang: zh
 author_profile: true
+hide_title: true
 ---
 
-我的研究聚焦于机器学习与科学发现的交叉领域。近期主要关注基础模型和大语言模型智能体（LLM Agents），尤其是它们在生物医学中的应用。
+我目前在洛桑联邦理工学院（EPFL）攻读计算机科学硕士。此前，我在北京大学获得了生物信息学学士学位与计算机科学双学位。更早之前，我通过高中阶段的生物竞赛训练打下了扎实的生物学基础。
 
-目前，我在罗氏制药（Roche）担任研究实习生，开发用于靶点安全性评估，以及从机密临床研究报告中检索信息的 LLM 智能体。在此之前，我在洛桑联邦理工学院（EPFL）的 AIMM 实验室从事空间蛋白组学基础模型及其下游应用的研究。
+我很幸运能在 EPFL 的 AIMM 实验室与 Charlotte Bunne 教授合作，研究面向空间蛋白组学的基础模型。这段经历让我重燃了科研热情。我也很感谢在 Roche 的实习经历，它让我更加了解制药行业，以及 AI 在药物发现与开发中的作用。
 
-科研之外，我喜欢拉小提琴，尤其是演奏动漫和游戏音乐。我偶尔也会徒步和游泳，但我更擅长的还是电子竞技，尤其是云顶之弈。我的目标是打入世界赛，离这个目标最近的一次，我以一分之差与 EMEA 区域总决赛失之交臂。
+这些经历加深了我对人工智能、生物学及其交叉领域的理解，也让我认识到，现有的机器学习方法未必能直接适用于生物数据。基于这些思考，我目前的研究探索如何将生物学先验知识融入 AI 模型，例如基础模型和生成模型。
 
-<style>
-.edu-exp-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  margin: 1.5rem 0;
-}
-.edu-exp-grid h2 {
-  font-size: 1.05rem;
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 2px solid #333;
-}
-.edu-exp-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.65rem;
-  margin-bottom: 0.9rem;
-}
-.inst-logo {
-  width: 34px;
-  height: 34px;
-  border-radius: 50%;
-  object-fit: contain;
-  background: #fff;
-  border: 1px solid #e8e8e8;
-  flex-shrink: 0;
-  margin-top: 2px;
-  padding: 3px;
-}
-.inst-info { flex: 1; min-width: 0; }
-.inst-name { font-weight: bold; font-size: 0.9rem; line-height: 1.3; }
-.inst-role { font-size: 0.82rem; color: #666; margin-top: 1px; }
-.inst-date { font-size: 0.78rem; font-style: italic; color: #888; white-space: nowrap; flex-shrink: 0; padding-top: 3px; }
-@media (max-width: 640px) {
-  .edu-exp-grid { grid-template-columns: 1fr; }
-}
-</style>
+<nav class="profile-links" aria-label="联系方式与个人资料">
+  <a class="profile-link-primary" href="{{ '/files/CV_EN.pdf' | relative_url }}">简历 <span aria-hidden="true">↗</span></a>
+  <a href="mailto:yexiang.cheng@epfl.ch">邮箱</a>
+  <a href="https://github.com/Seedfern2002">GitHub</a>
+  <a href="https://www.linkedin.com/in/yexiang-cheng-512076329/">LinkedIn</a>
+</nav>
 
-<div class="edu-exp-grid">
-<div>
-<h2>教育经历</h2>
+{% include background-zh.html %}
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/epfl.svg" alt="EPFL">
-  <div class="inst-info">
-    <div class="inst-name">洛桑联邦理工学院 (EPFL)</div>
-    <div class="inst-role">计算机科学硕士</div>
-  </div>
-  <div class="inst-date">2024年9月 – 至今</div>
-</div>
+<h2 id="awards">精选荣誉奖项</h2>
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="北京大学">
-  <div class="inst-info">
-    <div class="inst-name">北京大学</div>
-    <div class="inst-role">生物信息学学士</div>
-  </div>
-  <div class="inst-date">2020年9月 – 2024年6月</div>
-</div>
+- **北京市优秀毕业生**，2024
+- **北京大学优秀毕业生**，2024
+- **全国中学生生物学竞赛金牌**，2019
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="北京大学">
-  <div class="inst-info">
-    <div class="inst-name">北京大学</div>
-    <div class="inst-role">计算机科学学士</div>
-  </div>
-  <div class="inst-date">2020年9月 – 2024年6月</div>
-</div>
+<h2 id="beyond-research">科研之外</h2>
 
-</div>
-<div>
-<h2>研究经历</h2>
+科研之外，我喜欢拉小提琴，尤其是演奏动漫和游戏音乐。我也喜欢竞技云顶之弈。我的目标是打入世界赛；最接近的一次，我以一分之差与 EMEA 区域总决赛失之交臂。
 
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/roche.png" alt="Roche">
-  <div class="inst-info">
-    <div class="inst-name">罗氏制药 (Roche)</div>
-    <div class="inst-role">研究实习生</div>
-  </div>
-  <div class="inst-date">2026年5月 – 至今</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/aimm.jpg" alt="AIMM Lab">
-  <div class="inst-info">
-    <div class="inst-name">EPFL AIMM 实验室</div>
-    <div class="inst-role">研究助理</div>
-  </div>
-  <div class="inst-date">2024年12月 – 2026年4月</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/pku.svg" alt="北京大学">
-  <div class="inst-info">
-    <div class="inst-name">北京大学王选计算机研究所</div>
-    <div class="inst-role">研究助理</div>
-  </div>
-  <div class="inst-date">2022年11月 – 2023年5月</div>
-</div>
-
-<div class="edu-exp-item">
-  <img class="inst-logo" src="/images/logos/helixon.png" alt="Helixon">
-  <div class="inst-info">
-    <div class="inst-name">华深智药 (Helixon)</div>
-    <div class="inst-role">研究实习生</div>
-  </div>
-  <div class="inst-date">2022年1月 – 2022年6月</div>
-</div>
-
-</div>
-</div>
-
-联系方式
-======
-- 邮箱：[yexiang.cheng@epfl.ch](mailto:yexiang.cheng@epfl.ch)
-- LinkedIn：[Yexiang Cheng](https://www.linkedin.com/in/yexiang-cheng-512076329/)
-- GitHub：[yexiangcheng](https://github.com/Seedfern2002)
-- 简历：[下载 PDF](/files/CV_EN.pdf)
+我也会写一些故事和随笔，收录在[杂谈]({{ '/zh/stories/' | relative_url }})中。

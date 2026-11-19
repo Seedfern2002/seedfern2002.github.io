@@ -1,0 +1,72 @@
+/* Research-first profile: shared by English and Chinese pages. */
+.page__content {
+  .profile-kicker {
+    color: var(--global-text-color); opacity: 0.85;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin-bottom: 1.1em;
+  }
+  .profile-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.55em 1.1em;
+    margin: 1.3em 0 2em;
+    font-size: 0.9em;
+    a { padding: 0.35em 0; }
+    .profile-link-primary {
+      border: 1px solid var(--global-border-color);
+      border-radius: 4px;
+      padding: 0.35em 0.9em;
+      font-weight: 600;
+    }
+  }
+  .research-item {
+    margin: 1.4em 0;
+    padding-bottom: 1.4em;
+    border-bottom: 1px solid var(--global-border-color);
+    h3 { margin: 0.35em 0 0.65em; font-size: 1.04em; line-height: 1.5; }
+    h3 a { color: var(--global-text-color); text-decoration: none; }
+    h3 a:hover { text-decoration: underline; }
+    p { margin-bottom: 0.65em; }
+    .research-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35em 1em;
+      color: var(--global-text-color); opacity: 0.85;
+      font-size: 0.78em;
+      span:first-child { color: var(--global-text-color); font-weight: 600; }
+    }
+    .research-authors { font-size: 0.82em; line-height: 1.7; }
+    .research-link { font-size: 0.85em; font-weight: 600; }
+  }
+  .contribution-note { font-size: 0.8em; }
+  .edu-exp-grid { margin: 2em 0; }
+  .edu-exp-grid h2 { margin-top: 1.6em; }
+  .edu-exp-item {
+    display: grid;
+    grid-template-columns: 38px minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 0.75em;
+    margin: 1em 0;
+  }
+  .inst-logo {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+    background: #fff;
+    border: 1px solid var(--global-border-color);
+    border-radius: 6px;
+    padding: 4px;
+    margin: 2px 0 0;
+  }
+  .inst-name { font-size: 0.9em; font-weight: 600; }
+  .inst-role { font-size: 0.82em; margin-top: 0.15em; }
+  .inst-date { font-size: 0.75em; color: var(--global-text-color); opacity: 0.85; padding-top: 0.2em; }
+  h2[id], .research-item[id] { scroll-margin-top: 90px; }
+  @media (max-width: 640px) {
+    .edu-exp-item { grid-template-columns: 36px minmax(0, 1fr); gap: 0.2em 0.7em; }
+    .inst-logo { grid-row: span 2; }
+    .inst-date { grid-column: 2; padding-top: 0; }
+  }
+}

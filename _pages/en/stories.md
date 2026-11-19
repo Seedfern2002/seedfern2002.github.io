@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Fiction"
+title: "Miscellany"
 permalink: /en/stories/
 author_profile: true
 lang: en
@@ -8,7 +8,7 @@ lang: en
 
 {% include base_path %}
 
-A place for short fiction and occasional narrative sketches.
+Stories, essays, and occasional reflections.
 
 {% assign stories = site.stories | where: "lang", "en" | sort: "date" | reverse %}
 
@@ -17,5 +17,5 @@ A place for short fiction and occasional narrative sketches.
     {% include archive-single.html %}
   {% endfor %}
 {% else %}
-No stories posted yet.
+No writing posted yet.
 {% endif %}

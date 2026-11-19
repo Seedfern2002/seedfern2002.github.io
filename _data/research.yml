@@ -1,0 +1,28 @@
+- id: virtual-tissues
+  title: "The Virtual Tissues foundation model resolves spatial proteomics across scales"
+  authors: 'J. Wenckstern<sup>*</sup>, E. Jain<sup>*</sup>, B. von Querfurth<sup>*</sup>, <strong>Y. Cheng<sup>*</sup></strong>, K. Vasilev, M. Pariset, P. F. Cheng, P. Liakopoulos, O. Michielin, A. Wicki, G. Gut, C. Bunne.'
+  venue: Nature
+  url: https://www.nature.com/articles/s41586-026-10884-y
+  link_en: Paper
+  link_zh: 论文
+  summary_en: "Foundation models for spatial proteomics, connecting machine learning with the study of tissue organization across scales."
+  summary_zh: "面向空间蛋白组学的基础模型，探索如何用机器学习研究跨尺度的组织结构。"
+- id: spora
+  title: "spora: A Unified Multimodal Dataset and Platform for Spatial Proteomics"
+  authors: 'B. von Querfurth, J. Wenckstern, E. Jain, L. Klein, P. Cheng, <strong>Y. Cheng</strong>, C. Vincent-Cuaz, M. Haberecker, P. Frossard, A. Wicki, O. Michielin, C. Bunne.'
+  venue: "NeurIPS 2026 · Evaluations & Datasets Track"
+  url: https://arxiv.org/abs/2610.24002
+  project_url: https://spora.epfl.ch/docs/
+  link_en: Paper
+  link_zh: 论文
+  summary_en: "A unified multimodal spatial proteomics dataset spanning 35 cohorts, with data-loading tools and benchmarks for foundation models."
+  summary_zh: "整合 35 个队列的多模态空间蛋白组学数据集，配套提供数据加载工具与基础模型评测基准。"
+- id: tsassistant
+  title: "TSAssistant: A Human-in-the-Loop Agentic Framework for Automated Target Safety Assessment"
+  authors: 'X. Zheng<sup>*</sup>, Z. Jiang<sup>*</sup>, D. Tokar<sup>†</sup>, <strong>Y. Cheng<sup>†</sup></strong>, A. Serra, M. Guerard, K. Hatje, T. Doktorova.'
+  venue: "EMNLP 2026 · Industry Track"
+  url: https://aclanthology.org/2026.emnlp-industry.26/
+  link_en: Paper
+  link_zh: 论文
+  summary_en: "A human-in-the-loop agentic framework for target safety assessment, bringing LLM agents into biomedical research workflows."
+  summary_zh: "用于靶点安全性评估的人机协作智能体框架，将 LLM 智能体用于生物医学研究流程。"

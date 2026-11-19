@@ -26,7 +26,8 @@ author:
   avatar           : "profile.jpg" # filename of your profile image placed in /images/ for the author profile
   name             : "Yexiang Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "AI researcher working on AI for scientific discovery, foundation models and LLM agents."
+  bio              :
+  bio_zh           :
   location         : "Basel, Switzerland"
   employer         : "EPFL"
   uri              : # URL
